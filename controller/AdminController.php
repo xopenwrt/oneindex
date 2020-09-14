@@ -18,7 +18,7 @@ class AdminController{
 	    'video5'=>['mp4','webm','mkv'],
 	    'video'=>[],
 	    'video2'=>['avi','mpg', 'mpeg', 'rm', 'rmvb', 'mov', 'wmv', 'asf', 'ts', 'flv'],
-	    'audio'=>['ogg','mp3','wav'],
+	    'audio'=>['ogg','mp3','wav','flac'],
 	    'code'=>['html','htm','php', 'css', 'go','java','js','json','txt','sh','md'],
 	    'doc'=>['csv','doc','docx','odp','ods','odt','pot','potm','potx','pps','ppsx','ppsxm','ppt','pptm','pptx','rtf','xls','xlsx']
 	  ),
