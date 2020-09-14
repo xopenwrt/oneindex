@@ -3,7 +3,7 @@
 <div class="mdui-container-fluid">
     <div class="nexmoe-item">
 		<audio class="mdui-center" src="<?php e($item['downloadUrl']);?>" controls  style="width: 100%;"  poster="<?php @e($item['thumb'].'&width=176&height=176');?>"></audio>
-//关闭autoplay属性
+
 	</div>
 	<div class="mdui-textfield">
 	  <label class="mdui-textfield-label">下载地址</label>
