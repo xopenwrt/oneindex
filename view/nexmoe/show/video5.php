@@ -10,7 +10,7 @@
 	<div class="mdui-textfield">
 	    <label class="mdui-textfield-label">HTML引用地址</label>
 	    <input class="mdui-textfield-input" type="text" value="<video class='mdui-video-fluid mdui-center' preload controls poster='<?php @e($item['thumb']);?>'>
-		  <source src='<?php e($item['downloadUrl']);?>' type='video/mp4'>
+		  <source src='<?php e($url);?>' type='video/mp4'>
 		</video>"/>
 	</div>
 </div>
