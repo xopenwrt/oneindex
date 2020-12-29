@@ -2,6 +2,7 @@
 1. 增加了flac音频在线播放
 2. 增加了音频、视频的HTML引用(采用下载站css)、下载链接
 3. 关闭自动播放音频
+4. 增加了memcached缓存支持
 示例页面：https://testcloud.xini.me
 # 以下为原Readme文档
 # OneIndex
