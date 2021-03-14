@@ -4,6 +4,7 @@
 3. 关闭自动播放音频
 4. 增加了memcached缓存支持
 示例页面：https://testcloud.xini.me
+## 目前出现两次似乎api无法调用的情况，暂时未能定位问题，预计复现后修复。同时将会进一步强化安全性。
 # 以下为原Readme文档
 # OneIndex
 
