@@ -144,7 +144,7 @@ class AdminController{
 		$check['config'] = is_writable(ROOT.'config/');
 		$check['cache'] = is_writable(ROOT.'cache/');
 
-		return view::load('install/install_0')->with('title','系统安装')
+		return view::load('install/install_0')->with('title','Oneindex -> 安装')
 						->with('check', $check);
 	}
 
@@ -165,13 +165,13 @@ class AdminController{
 		
  		$oauth_url = 'https://login.microsoftonline.com/common/oauth2/authorize';
  		$app_url = "{$oauth_url}?response_type=code&client_id={$client_id}&redirect_uri={$redirect_uri}";
-		return view::load('install/install_1')->with('title','系统安装')
+		return view::load('install/install_1')->with('title','Oneindex -> 安装')
 						->with('redirect_uri', $redirect_uri)
 						->with('app_url', $app_url);
 	}
 
 	function install_2(){
-		return view::load('install/install_2')->with('title','系统安装');
+		return view::load('install/install_2')->with('title','Oneindex -> 安装');
 	}
 
 	function install_3(){
