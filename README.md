@@ -11,7 +11,7 @@
 ### 全新使用教程，移步
 
 [OneIndex 教程 （一）](https://www.115115.xyz/everything/oneindex-%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b-%ef%bc%88%e4%b8%80%ef%bc%89/)
-
+[OneIndex 教程 （二）](https://www.115115.xyz/everything/oneindex-%e6%95%99%e7%a8%8b-%ef%bc%88%e4%ba%8c%ef%bc%89/)
 # 以下为原Readme文档
 
 
