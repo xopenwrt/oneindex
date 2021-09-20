@@ -6,7 +6,7 @@
 
  示例页面：https://cloud.123431.xyz
  务必阅读安装步骤，不推荐一键安装，目前未维护。
-### 已知问题：3个月后会无法获取文件，需重新配置才能恢复正常。同时将会进一步强化安全性。
+### Token仅有3个月有效期，因此务必将对应的 php /www/wwwroot/test.test.test/one.php token:refresh 命令加入到 crontab
 
 ### 全新使用教程，移步
 
